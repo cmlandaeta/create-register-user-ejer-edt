@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nombre": "carlos"
+    },
+    {
+      "nombre": "Miguel",
+      "id": 2
+    },
+    {
+      "nombre": "Michael",
+      "id": 3
+    },
+    {
+      "nombre": "Micca",
+      "id": 4
+    },
+    {
+      "nombre": "OBJC",
+      "id": 5
+    },
+    {
+      "nombre": "Dann",
+      "id": 6
+    },
+    {
+      "nombre": "Bann",
+      "id": 7
+    },
+    {
+      "nombre": "Saz",
+      "id": 8
+    }
+  ],
+  "tareas": [
+    {
+      "text": "Tarea1",
+      "nombre": "carlos",
+      "id": 1
+    },
+    {
+      "text": "Tarea10",
+      "nombre": "Miguel",
+      "id": 9,
+      "checked": true
+    },
+    {
+      "text": "Tarea10",
+      "nombre": "Miguel",
+      "id": 10
+    },
+    {
+      "text": "Tarea 20",
+      "nombre": "Miguel",
+      "id": 11
+    },
+    {
+      "text": "Tarea24",
+      "nombre": "Miguel",
+      "id": 12
+    },
+    {
+      "text": "Reiki",
+      "nombre": "Miguel",
+      "id": 13
+    },
+    {
+      "text": "hahhass",
+      "nombre": "Miguel",
+      "id": 14
+    },
+    {
+      "text": "jsdjsdlk",
+      "nombre": "Miguel",
+      "id": 15
+    },
+    {
+      "text": "fasfsdfsdf",
+      "nombre": "Miguel",
+      "id": 16
+    },
+    {
+      "text": "sdfsdfsdf",
+      "nombre": "Miguel",
+      "id": 17
+    },
+    {
+      "text": "dfdf",
+      "nombre": "Miguel",
+      "id": 18
+    },
+    {
+      "text": "vffsdfsdfsdf",
+      "nombre": "Miguel",
+      "id": 19
+    },
+    {
+      "text": "Tarea 2",
+      "nombre": "carlos",
+      "id": 20
+    },
+    {
+      "text": "Tarea 3",
+      "nombre": "carlos",
+      "id": 21
+    },
+    {
+      "text": "Tarea 4",
+      "nombre": "carlos",
+      "id": 22
+    }
+  ]
+}
